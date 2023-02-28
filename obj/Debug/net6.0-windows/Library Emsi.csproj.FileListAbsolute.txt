@@ -1,0 +1,22 @@
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\bin\Debug\net6.0-windows\Library Emsi.exe
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\bin\Debug\net6.0-windows\Library Emsi.deps.json
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\bin\Debug\net6.0-windows\Library Emsi.runtimeconfig.json
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\bin\Debug\net6.0-windows\Library Emsi.dll
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\bin\Debug\net6.0-windows\Library Emsi.pdb
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.csproj.AssemblyReference.cache
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library_Emsi.Form1.resources
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library_Emsi.Properties.Resources.resources
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.csproj.GenerateResource.cache
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.AssemblyInfoInputs.cache
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.AssemblyInfo.cs
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.csproj.CoreCompileInputs.cache
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.dll
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\refint\Library Emsi.dll
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.pdb
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library Emsi.genruntimeconfig.cache
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\ref\Library Emsi.dll
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library_Emsi.Home.resources
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library_Emsi.gestionCDs.resources
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library_Emsi.gestionlivre.resources
+C:\Users\SAAD\source\repos\Library Emsi\Library Emsi\obj\Debug\net6.0-windows\Library_Emsi.gestionperiodique.resources
